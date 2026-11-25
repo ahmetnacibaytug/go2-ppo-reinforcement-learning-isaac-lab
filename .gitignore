@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+kod/logs/
+model/evaluation/
+model/exported/
+.pytest_cache/
